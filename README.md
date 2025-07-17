@@ -19,3 +19,30 @@ This repository is structured to help learners, developers, and enthusiasts:
    - Armstrong Number
 
 2. *Intermediate Programs*
+3.  File Handling Operations
+   - String Manipulations
+   - List Comprehensions
+   - Dictionary Operations
+   - Sorting Algorithms (Bubble, Merge, Quick Sort)
+   - Matrix Operations
+   - Recursion Examples
+   - Object-Oriented Programming
+
+3. *Advanced Programs*
+   - Data Structures (Stack, Queue, Linked List, Tree, Graph)
+   - Searching Algorithms (Binary Search, Linear Search)
+   - Dynamic Programming
+   - Decorators & Generators
+   - Regular Expressions
+   - Multi-threading & Concurrency
+   - Web Scraping using BeautifulSoup & Selenium
+   - API Integration
+
+4. *Project-Level Implementations*
+   - Calculator Application
+   - To-do List Manager
+   - Weather Forecast App using API
+   - Chatbot using NLP
+   - Data Visualization with Matplotlib & Seaborn
+   - Machine Learning Models with Scikit-Learn
+   - Web Application using Flask / Django
