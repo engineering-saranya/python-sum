@@ -19,7 +19,7 @@ This repository is structured to help learners, developers, and enthusiasts:
    - Armstrong Number
 
 2. *Intermediate Programs*
-3.  File Handling Operations
+   - File Handling Operations
    - String Manipulations
    - List Comprehensions
    - Dictionary Operations
@@ -28,7 +28,7 @@ This repository is structured to help learners, developers, and enthusiasts:
    - Recursion Examples
    - Object-Oriented Programming
 
-3. *Advanced Programs*
+4. *Advanced Programs*
    - Data Structures (Stack, Queue, Linked List, Tree, Graph)
    - Searching Algorithms (Binary Search, Linear Search)
    - Dynamic Programming
@@ -38,7 +38,7 @@ This repository is structured to help learners, developers, and enthusiasts:
    - Web Scraping using BeautifulSoup & Selenium
    - API Integration
 
-4. *Project-Level Implementations*
+5. *Project-Level Implementations*
    - Calculator Application
    - To-do List Manager
    - Weather Forecast App using API
